@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only what XML needs (window, launcher icon). Compose colours live in ui/theme/Color.kt. -->
+    <color name="canvas">#F4F8F5</color>
+    <color name="brand_forest">#0B6B37</color>
+    <color name="brand_lime">#C6F45C</color>
+</resources>
