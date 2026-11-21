@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Status-bar icon for push notifications: the brand mark (two people and the
+    arrows between them) in one solid colour, which Android tints itself.
+    Paths are the launcher's monochrome mark, framed to fill a 24dp square.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="84"
+    android:viewportHeight="84">
+    <group android:translateX="-18" android:translateY="-18">
+        <path android:fillColor="#FFFFFFFF" android:pathData="M24 30a10 10 0 1 0 20 0a10 10 0 1 0 -20 0Z" />
+        <path android:fillColor="#FFFFFFFF" android:pathData="M34 46a9 9 0 0 1 9 9v36a9 9 0 0 1 -18 0v-36a9 9 0 0 1 9 -9Z" />
+        <path android:fillColor="#FFFFFFFF" android:pathData="M76 30a10 10 0 1 0 20 0a10 10 0 1 0 -20 0Z" />
+        <path android:fillColor="#FFFFFFFF" android:pathData="M86 46a9 9 0 0 1 9 9v36a9 9 0 0 1 -18 0v-36a9 9 0 0 1 9 -9Z" />
+        <path
+            android:pathData="M43 60H70M62 51L71 60L62 69"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeWidth="7"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M77 84H50M58 75L49 84L58 93"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeWidth="7"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000" />
+    </group>
+</vector>
